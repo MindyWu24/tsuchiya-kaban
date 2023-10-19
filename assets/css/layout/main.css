@@ -121,7 +121,7 @@
   padding-left: 7.5rem;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .main_content {
     margin: 0 10%;
     padding: 3.5rem 2rem;
@@ -168,7 +168,7 @@
   }
 }
 
-@media screen and (max-width: 389px) {
+@media screen and (max-width: 480px) {
   .main_content {
     margin: 0;
     padding: 3rem 1.25rem;
